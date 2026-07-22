@@ -1,0 +1,19 @@
+{
+    "pack": {
+        "description": "教程包：末影龙不会破坏方块",
+        "min_format": 15,
+        "max_format": 999,
+        "pack_format": 81,
+        "supported_formats": [15, 999]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "before_24w19a",
+                "min_format": 15,
+                "max_format": 42,
+                "formats": [15, 42]
+            }
+        ]
+    }
+}

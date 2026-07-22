@@ -1,0 +1,19 @@
+{
+    "python.REPL.enableREPLSmartSend": false,
+    "settings": {
+        "terminal.integrated.defaultProfile.windows": "Command Prompt",
+        "terminal.integrated.cursorStyle": "line",
+        "spyglassmc.env.enableMcdocCaching": true,
+        "spyglassmc.env.gameVersion": "Auto"
+    },
+    "extensions": {
+        "recommendations": [
+            "minecraftcommands.syntax-mcfunction",
+            "arcensoth.language-mcfunction",
+            "spgoding.datapack-language-server",
+            "ms-python.vscode-pylance",
+            "ms-python.python",
+            "ms-python.debugpy"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "pack": {
+        "description": "教程包：任意结构探险家地图",
+        "min_format": 15,
+        "max_format": 999,
+        "pack_format": 81,
+        "supported_formats": [15, 999]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "before_24w21a",
+                "min_format": 15,
+                "max_format": 44,
+                "formats": [15, 44]
+            },
+            {
+                "directory": "after_26_3-snapshot-4",
+                "min_format": 111,
+                "max_format": 999,
+                "formats": [111, 999]
+            }
+        ]
+    }
+}

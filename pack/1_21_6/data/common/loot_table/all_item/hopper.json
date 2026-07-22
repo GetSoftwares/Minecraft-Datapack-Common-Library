@@ -1,0 +1,16 @@
+{
+    "type": "chest",
+    "pools": [
+        {
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "loot_table",
+                    "value": "common:all_item/all_item"
+                }
+            ],
+            "rolls": 5
+        }
+    ],
+    "random_sequence": "common:all_item/hopper"
+}

@@ -1,0 +1,2410 @@
+{
+    "pack": {
+        "description": "Minecraft 数据包通用库 1.0.0，支持 23w18a+",
+        "min_format": 15,
+        "supported_formats": [
+            15,
+            112
+        ],
+        "pack_format": 15,
+        "max_format": [
+            112,
+            0
+        ]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "23w18a",
+                "min_format": 15,
+                "max_format": 15,
+                "formats": [
+                    15,
+                    15
+                ]
+            },
+            {
+                "directory": "1_20-pre1",
+                "min_format": 15,
+                "max_format": 15,
+                "formats": [
+                    15,
+                    15
+                ]
+            },
+            {
+                "directory": "1_20-pre2",
+                "min_format": 15,
+                "max_format": 15,
+                "formats": [
+                    15,
+                    15
+                ]
+            },
+            {
+                "directory": "1_20-pre3",
+                "min_format": 15,
+                "max_format": 15,
+                "formats": [
+                    15,
+                    15
+                ]
+            },
+            {
+                "directory": "1_20-pre4",
+                "min_format": 15,
+                "max_format": 15,
+                "formats": [
+                    15,
+                    15
+                ]
+            },
+            {
+                "directory": "1_20-pre5",
+                "min_format": 15,
+                "max_format": 15,
+                "formats": [
+                    15,
+                    15
+                ]
+            },
+            {
+                "directory": "1_20-pre6",
+                "min_format": 15,
+                "max_format": 15,
+                "formats": [
+                    15,
+                    15
+                ]
+            },
+            {
+                "directory": "1_20-pre7",
+                "min_format": 15,
+                "max_format": 15,
+                "formats": [
+                    15,
+                    15
+                ]
+            },
+            {
+                "directory": "1_20-rc1",
+                "min_format": 15,
+                "max_format": 15,
+                "formats": [
+                    15,
+                    15
+                ]
+            },
+            {
+                "directory": "1_20",
+                "min_format": 15,
+                "max_format": 15,
+                "formats": [
+                    15,
+                    15
+                ]
+            },
+            {
+                "directory": "1_20_1-rc1",
+                "min_format": 15,
+                "max_format": 15,
+                "formats": [
+                    15,
+                    15
+                ]
+            },
+            {
+                "directory": "1_20_1",
+                "min_format": 15,
+                "max_format": 15,
+                "formats": [
+                    15,
+                    15
+                ]
+            },
+            {
+                "directory": "23w31a",
+                "min_format": 16,
+                "max_format": 16,
+                "formats": [
+                    16,
+                    16
+                ]
+            },
+            {
+                "directory": "23w32a",
+                "min_format": 17,
+                "max_format": 17,
+                "formats": [
+                    17,
+                    17
+                ]
+            },
+            {
+                "directory": "23w33a",
+                "min_format": 17,
+                "max_format": 17,
+                "formats": [
+                    17,
+                    17
+                ]
+            },
+            {
+                "directory": "23w35a",
+                "min_format": 17,
+                "max_format": 17,
+                "formats": [
+                    17,
+                    17
+                ]
+            },
+            {
+                "directory": "1_20_2-pre1",
+                "min_format": 18,
+                "max_format": 18,
+                "formats": [
+                    18,
+                    18
+                ]
+            },
+            {
+                "directory": "1_20_2-pre2",
+                "min_format": 18,
+                "max_format": 18,
+                "formats": [
+                    18,
+                    18
+                ]
+            },
+            {
+                "directory": "1_20_2-pre3",
+                "min_format": 18,
+                "max_format": 18,
+                "formats": [
+                    18,
+                    18
+                ]
+            },
+            {
+                "directory": "1_20_2-pre4",
+                "min_format": 18,
+                "max_format": 18,
+                "formats": [
+                    18,
+                    18
+                ]
+            },
+            {
+                "directory": "1_20_2-rc1",
+                "min_format": 18,
+                "max_format": 18,
+                "formats": [
+                    18,
+                    18
+                ]
+            },
+            {
+                "directory": "1_20_2-rc2",
+                "min_format": 18,
+                "max_format": 18,
+                "formats": [
+                    18,
+                    18
+                ]
+            },
+            {
+                "directory": "1_20_2",
+                "min_format": 18,
+                "max_format": 18,
+                "formats": [
+                    18,
+                    18
+                ]
+            },
+            {
+                "directory": "23w40a",
+                "min_format": 19,
+                "max_format": 19,
+                "formats": [
+                    19,
+                    19
+                ]
+            },
+            {
+                "directory": "23w41a",
+                "min_format": 20,
+                "max_format": 20,
+                "formats": [
+                    20,
+                    20
+                ]
+            },
+            {
+                "directory": "23w42a",
+                "min_format": 21,
+                "max_format": 21,
+                "formats": [
+                    21,
+                    21
+                ]
+            },
+            {
+                "directory": "23w43a",
+                "min_format": 22,
+                "max_format": 22,
+                "formats": [
+                    22,
+                    22
+                ]
+            },
+            {
+                "directory": "23w43b",
+                "min_format": 22,
+                "max_format": 22,
+                "formats": [
+                    22,
+                    22
+                ]
+            },
+            {
+                "directory": "23w44a",
+                "min_format": 23,
+                "max_format": 23,
+                "formats": [
+                    23,
+                    23
+                ]
+            },
+            {
+                "directory": "23w45a",
+                "min_format": 24,
+                "max_format": 24,
+                "formats": [
+                    24,
+                    24
+                ]
+            },
+            {
+                "directory": "23w46a",
+                "min_format": 25,
+                "max_format": 25,
+                "formats": [
+                    25,
+                    25
+                ]
+            },
+            {
+                "directory": "1_20_3-pre1",
+                "min_format": 26,
+                "max_format": 26,
+                "formats": [
+                    26,
+                    26
+                ]
+            },
+            {
+                "directory": "1_20_3-pre2",
+                "min_format": 26,
+                "max_format": 26,
+                "formats": [
+                    26,
+                    26
+                ]
+            },
+            {
+                "directory": "1_20_3-pre3",
+                "min_format": 26,
+                "max_format": 26,
+                "formats": [
+                    26,
+                    26
+                ]
+            },
+            {
+                "directory": "1_20_3-pre4",
+                "min_format": 26,
+                "max_format": 26,
+                "formats": [
+                    26,
+                    26
+                ]
+            },
+            {
+                "directory": "1_20_3-rc1",
+                "min_format": 26,
+                "max_format": 26,
+                "formats": [
+                    26,
+                    26
+                ]
+            },
+            {
+                "directory": "1_20_3",
+                "min_format": 26,
+                "max_format": 26,
+                "formats": [
+                    26,
+                    26
+                ]
+            },
+            {
+                "directory": "1_20_4-rc1",
+                "min_format": 26,
+                "max_format": 26,
+                "formats": [
+                    26,
+                    26
+                ]
+            },
+            {
+                "directory": "1_20_4",
+                "min_format": 26,
+                "max_format": 26,
+                "formats": [
+                    26,
+                    26
+                ]
+            },
+            {
+                "directory": "23w51a",
+                "min_format": 27,
+                "max_format": 27,
+                "formats": [
+                    27,
+                    27
+                ]
+            },
+            {
+                "directory": "23w51b",
+                "min_format": 27,
+                "max_format": 27,
+                "formats": [
+                    27,
+                    27
+                ]
+            },
+            {
+                "directory": "24w03a",
+                "min_format": 28,
+                "max_format": 28,
+                "formats": [
+                    28,
+                    28
+                ]
+            },
+            {
+                "directory": "24w03b",
+                "min_format": 28,
+                "max_format": 28,
+                "formats": [
+                    28,
+                    28
+                ]
+            },
+            {
+                "directory": "24w04a",
+                "min_format": 29,
+                "max_format": 29,
+                "formats": [
+                    29,
+                    29
+                ]
+            },
+            {
+                "directory": "24w05a",
+                "min_format": 30,
+                "max_format": 30,
+                "formats": [
+                    30,
+                    30
+                ]
+            },
+            {
+                "directory": "24w05b",
+                "min_format": 30,
+                "max_format": 30,
+                "formats": [
+                    30,
+                    30
+                ]
+            },
+            {
+                "directory": "24w06a",
+                "min_format": 31,
+                "max_format": 31,
+                "formats": [
+                    31,
+                    31
+                ]
+            },
+            {
+                "directory": "24w07a",
+                "min_format": 32,
+                "max_format": 32,
+                "formats": [
+                    32,
+                    32
+                ]
+            },
+            {
+                "directory": "24w09a",
+                "min_format": 33,
+                "max_format": 33,
+                "formats": [
+                    33,
+                    33
+                ]
+            },
+            {
+                "directory": "24w10a",
+                "min_format": 34,
+                "max_format": 34,
+                "formats": [
+                    34,
+                    34
+                ]
+            },
+            {
+                "directory": "24w11a",
+                "min_format": 35,
+                "max_format": 35,
+                "formats": [
+                    35,
+                    35
+                ]
+            },
+            {
+                "directory": "24w12a",
+                "min_format": 36,
+                "max_format": 36,
+                "formats": [
+                    36,
+                    36
+                ]
+            },
+            {
+                "directory": "24w13a",
+                "min_format": 37,
+                "max_format": 37,
+                "formats": [
+                    37,
+                    37
+                ]
+            },
+            {
+                "directory": "24w14a",
+                "min_format": 38,
+                "max_format": 38,
+                "formats": [
+                    38,
+                    38
+                ]
+            },
+            {
+                "directory": "1_20_5-pre1",
+                "min_format": 39,
+                "max_format": 39,
+                "formats": [
+                    39,
+                    39
+                ]
+            },
+            {
+                "directory": "1_20_5-pre2",
+                "min_format": 40,
+                "max_format": 40,
+                "formats": [
+                    40,
+                    40
+                ]
+            },
+            {
+                "directory": "1_20_5-pre3",
+                "min_format": 41,
+                "max_format": 41,
+                "formats": [
+                    41,
+                    41
+                ]
+            },
+            {
+                "directory": "1_20_5-pre4",
+                "min_format": 41,
+                "max_format": 41,
+                "formats": [
+                    41,
+                    41
+                ]
+            },
+            {
+                "directory": "1_20_5-rc1",
+                "min_format": 41,
+                "max_format": 41,
+                "formats": [
+                    41,
+                    41
+                ]
+            },
+            {
+                "directory": "1_20_5-rc2",
+                "min_format": 41,
+                "max_format": 41,
+                "formats": [
+                    41,
+                    41
+                ]
+            },
+            {
+                "directory": "1_20_5-rc3",
+                "min_format": 41,
+                "max_format": 41,
+                "formats": [
+                    41,
+                    41
+                ]
+            },
+            {
+                "directory": "1_20_5",
+                "min_format": 41,
+                "max_format": 41,
+                "formats": [
+                    41,
+                    41
+                ]
+            },
+            {
+                "directory": "1_20_6-rc1",
+                "min_format": 41,
+                "max_format": 41,
+                "formats": [
+                    41,
+                    41
+                ]
+            },
+            {
+                "directory": "1_20_6",
+                "min_format": 41,
+                "max_format": 41,
+                "formats": [
+                    41,
+                    41
+                ]
+            },
+            {
+                "directory": "24w18a",
+                "min_format": 42,
+                "max_format": 42,
+                "formats": [
+                    42,
+                    42
+                ]
+            },
+            {
+                "directory": "24w19a",
+                "min_format": 43,
+                "max_format": 43,
+                "formats": [
+                    43,
+                    43
+                ]
+            },
+            {
+                "directory": "24w19b",
+                "min_format": 43,
+                "max_format": 43,
+                "formats": [
+                    43,
+                    43
+                ]
+            },
+            {
+                "directory": "24w20a",
+                "min_format": 44,
+                "max_format": 44,
+                "formats": [
+                    44,
+                    44
+                ]
+            },
+            {
+                "directory": "24w21a",
+                "min_format": 45,
+                "max_format": 45,
+                "formats": [
+                    45,
+                    45
+                ]
+            },
+            {
+                "directory": "24w21b",
+                "min_format": 45,
+                "max_format": 45,
+                "formats": [
+                    45,
+                    45
+                ]
+            },
+            {
+                "directory": "1_21-pre1",
+                "min_format": 46,
+                "max_format": 46,
+                "formats": [
+                    46,
+                    46
+                ]
+            },
+            {
+                "directory": "1_21-pre2",
+                "min_format": 47,
+                "max_format": 47,
+                "formats": [
+                    47,
+                    47
+                ]
+            },
+            {
+                "directory": "1_21-pre3",
+                "min_format": 48,
+                "max_format": 48,
+                "formats": [
+                    48,
+                    48
+                ]
+            },
+            {
+                "directory": "1_21-pre4",
+                "min_format": 48,
+                "max_format": 48,
+                "formats": [
+                    48,
+                    48
+                ]
+            },
+            {
+                "directory": "1_21-rc1",
+                "min_format": 48,
+                "max_format": 48,
+                "formats": [
+                    48,
+                    48
+                ]
+            },
+            {
+                "directory": "1_21",
+                "min_format": 48,
+                "max_format": 48,
+                "formats": [
+                    48,
+                    48
+                ]
+            },
+            {
+                "directory": "1_21_1-rc1",
+                "min_format": 48,
+                "max_format": 48,
+                "formats": [
+                    48,
+                    48
+                ]
+            },
+            {
+                "directory": "1_21_1",
+                "min_format": 48,
+                "max_format": 48,
+                "formats": [
+                    48,
+                    48
+                ]
+            },
+            {
+                "directory": "24w33a",
+                "min_format": 49,
+                "max_format": 49,
+                "formats": [
+                    49,
+                    49
+                ]
+            },
+            {
+                "directory": "24w34a",
+                "min_format": 50,
+                "max_format": 50,
+                "formats": [
+                    50,
+                    50
+                ]
+            },
+            {
+                "directory": "24w35a",
+                "min_format": 51,
+                "max_format": 51,
+                "formats": [
+                    51,
+                    51
+                ]
+            },
+            {
+                "directory": "24w36a",
+                "min_format": 52,
+                "max_format": 52,
+                "formats": [
+                    52,
+                    52
+                ]
+            },
+            {
+                "directory": "24w37a",
+                "min_format": 53,
+                "max_format": 53,
+                "formats": [
+                    53,
+                    53
+                ]
+            },
+            {
+                "directory": "24w38a",
+                "min_format": 54,
+                "max_format": 54,
+                "formats": [
+                    54,
+                    54
+                ]
+            },
+            {
+                "directory": "24w39a",
+                "min_format": 55,
+                "max_format": 55,
+                "formats": [
+                    55,
+                    55
+                ]
+            },
+            {
+                "directory": "24w40a",
+                "min_format": 56,
+                "max_format": 56,
+                "formats": [
+                    56,
+                    56
+                ]
+            },
+            {
+                "directory": "1_21_2-pre1",
+                "min_format": 57,
+                "max_format": 57,
+                "formats": [
+                    57,
+                    57
+                ]
+            },
+            {
+                "directory": "1_21_2-pre2",
+                "min_format": 57,
+                "max_format": 57,
+                "formats": [
+                    57,
+                    57
+                ]
+            },
+            {
+                "directory": "1_21_2-pre3",
+                "min_format": 57,
+                "max_format": 57,
+                "formats": [
+                    57,
+                    57
+                ]
+            },
+            {
+                "directory": "1_21_2-pre4",
+                "min_format": 57,
+                "max_format": 57,
+                "formats": [
+                    57,
+                    57
+                ]
+            },
+            {
+                "directory": "1_21_2-pre5",
+                "min_format": 57,
+                "max_format": 57,
+                "formats": [
+                    57,
+                    57
+                ]
+            },
+            {
+                "directory": "1_21_2-rc1",
+                "min_format": 57,
+                "max_format": 57,
+                "formats": [
+                    57,
+                    57
+                ]
+            },
+            {
+                "directory": "1_21_2-rc2",
+                "min_format": 57,
+                "max_format": 57,
+                "formats": [
+                    57,
+                    57
+                ]
+            },
+            {
+                "directory": "1_21_2",
+                "min_format": 57,
+                "max_format": 57,
+                "formats": [
+                    57,
+                    57
+                ]
+            },
+            {
+                "directory": "1_21_3",
+                "min_format": 57,
+                "max_format": 57,
+                "formats": [
+                    57,
+                    57
+                ]
+            },
+            {
+                "directory": "24w44a",
+                "min_format": 58,
+                "max_format": 58,
+                "formats": [
+                    58,
+                    58
+                ]
+            },
+            {
+                "directory": "24w45a",
+                "min_format": 59,
+                "max_format": 59,
+                "formats": [
+                    59,
+                    59
+                ]
+            },
+            {
+                "directory": "24w46a",
+                "min_format": 60,
+                "max_format": 60,
+                "formats": [
+                    60,
+                    60
+                ]
+            },
+            {
+                "directory": "1_21_4-pre1",
+                "min_format": 60,
+                "max_format": 60,
+                "formats": [
+                    60,
+                    60
+                ]
+            },
+            {
+                "directory": "1_21_4-pre2",
+                "min_format": 61,
+                "max_format": 61,
+                "formats": [
+                    61,
+                    61
+                ]
+            },
+            {
+                "directory": "1_21_4-pre3",
+                "min_format": 61,
+                "max_format": 61,
+                "formats": [
+                    61,
+                    61
+                ]
+            },
+            {
+                "directory": "1_21_4-rc1",
+                "min_format": 61,
+                "max_format": 61,
+                "formats": [
+                    61,
+                    61
+                ]
+            },
+            {
+                "directory": "1_21_4-rc2",
+                "min_format": 61,
+                "max_format": 61,
+                "formats": [
+                    61,
+                    61
+                ]
+            },
+            {
+                "directory": "1_21_4-rc3",
+                "min_format": 61,
+                "max_format": 61,
+                "formats": [
+                    61,
+                    61
+                ]
+            },
+            {
+                "directory": "1_21_4",
+                "min_format": 61,
+                "max_format": 61,
+                "formats": [
+                    61,
+                    61
+                ]
+            },
+            {
+                "directory": "25w02a",
+                "min_format": 62,
+                "max_format": 62,
+                "formats": [
+                    62,
+                    62
+                ]
+            },
+            {
+                "directory": "25w03a",
+                "min_format": 63,
+                "max_format": 63,
+                "formats": [
+                    63,
+                    63
+                ]
+            },
+            {
+                "directory": "25w04a",
+                "min_format": 64,
+                "max_format": 64,
+                "formats": [
+                    64,
+                    64
+                ]
+            },
+            {
+                "directory": "25w05a",
+                "min_format": 65,
+                "max_format": 65,
+                "formats": [
+                    65,
+                    65
+                ]
+            },
+            {
+                "directory": "25w06a",
+                "min_format": 66,
+                "max_format": 66,
+                "formats": [
+                    66,
+                    66
+                ]
+            },
+            {
+                "directory": "25w07a",
+                "min_format": 67,
+                "max_format": 67,
+                "formats": [
+                    67,
+                    67
+                ]
+            },
+            {
+                "directory": "25w08a",
+                "min_format": 68,
+                "max_format": 68,
+                "formats": [
+                    68,
+                    68
+                ]
+            },
+            {
+                "directory": "25w09a",
+                "min_format": 69,
+                "max_format": 69,
+                "formats": [
+                    69,
+                    69
+                ]
+            },
+            {
+                "directory": "25w09b",
+                "min_format": 69,
+                "max_format": 69,
+                "formats": [
+                    69,
+                    69
+                ]
+            },
+            {
+                "directory": "25w10a",
+                "min_format": 70,
+                "max_format": 70,
+                "formats": [
+                    70,
+                    70
+                ]
+            },
+            {
+                "directory": "1_21_5-pre1",
+                "min_format": 70,
+                "max_format": 70,
+                "formats": [
+                    70,
+                    70
+                ]
+            },
+            {
+                "directory": "1_21_5-pre2",
+                "min_format": 71,
+                "max_format": 71,
+                "formats": [
+                    71,
+                    71
+                ]
+            },
+            {
+                "directory": "1_21_5-pre3",
+                "min_format": 71,
+                "max_format": 71,
+                "formats": [
+                    71,
+                    71
+                ]
+            },
+            {
+                "directory": "1_21_5-rc1",
+                "min_format": 71,
+                "max_format": 71,
+                "formats": [
+                    71,
+                    71
+                ]
+            },
+            {
+                "directory": "1_21_5-rc2",
+                "min_format": 71,
+                "max_format": 71,
+                "formats": [
+                    71,
+                    71
+                ]
+            },
+            {
+                "directory": "1_21_5",
+                "min_format": 71,
+                "max_format": 71,
+                "formats": [
+                    71,
+                    71
+                ]
+            },
+            {
+                "directory": "25w15a",
+                "min_format": 72,
+                "max_format": 72,
+                "formats": [
+                    72,
+                    72
+                ]
+            },
+            {
+                "directory": "25w16a",
+                "min_format": 73,
+                "max_format": 73,
+                "formats": [
+                    73,
+                    73
+                ]
+            },
+            {
+                "directory": "25w17a",
+                "min_format": 74,
+                "max_format": 74,
+                "formats": [
+                    74,
+                    74
+                ]
+            },
+            {
+                "directory": "25w18a",
+                "min_format": 75,
+                "max_format": 75,
+                "formats": [
+                    75,
+                    75
+                ]
+            },
+            {
+                "directory": "25w19a",
+                "min_format": 76,
+                "max_format": 76,
+                "formats": [
+                    76,
+                    76
+                ]
+            },
+            {
+                "directory": "25w20a",
+                "min_format": 77,
+                "max_format": 77,
+                "formats": [
+                    77,
+                    77
+                ]
+            },
+            {
+                "directory": "25w21a",
+                "min_format": 78,
+                "max_format": 78,
+                "formats": [
+                    78,
+                    78
+                ]
+            },
+            {
+                "directory": "1_21_6-pre1",
+                "min_format": 79,
+                "max_format": 79,
+                "formats": [
+                    79,
+                    79
+                ]
+            },
+            {
+                "directory": "1_21_6-pre2",
+                "min_format": 79,
+                "max_format": 79,
+                "formats": [
+                    79,
+                    79
+                ]
+            },
+            {
+                "directory": "1_21_6-pre3",
+                "min_format": 80,
+                "max_format": 80,
+                "formats": [
+                    80,
+                    80
+                ]
+            },
+            {
+                "directory": "1_21_6-pre4",
+                "min_format": 80,
+                "max_format": 80,
+                "formats": [
+                    80,
+                    80
+                ]
+            },
+            {
+                "directory": "1_21_6-rc1",
+                "min_format": 80,
+                "max_format": 80,
+                "formats": [
+                    80,
+                    80
+                ]
+            },
+            {
+                "directory": "1_21_6",
+                "min_format": 80,
+                "max_format": 80,
+                "formats": [
+                    80,
+                    80
+                ]
+            },
+            {
+                "directory": "1_21_7-rc1",
+                "min_format": 80,
+                "max_format": 80,
+                "formats": [
+                    80,
+                    80
+                ]
+            },
+            {
+                "directory": "1_21_7-rc2",
+                "min_format": 81,
+                "max_format": 81,
+                "formats": [
+                    81,
+                    81
+                ]
+            },
+            {
+                "directory": "1_21_7",
+                "min_format": 81,
+                "max_format": 81,
+                "formats": [
+                    81,
+                    81
+                ]
+            },
+            {
+                "directory": "1_21_8-rc1",
+                "min_format": 81,
+                "max_format": 81,
+                "formats": [
+                    81,
+                    81
+                ]
+            },
+            {
+                "directory": "1_21_8",
+                "min_format": 81,
+                "max_format": 81,
+                "formats": [
+                    81,
+                    81
+                ]
+            },
+            {
+                "directory": "25w31a",
+                "min_format": [
+                    82,
+                    0
+                ],
+                "max_format": [
+                    82,
+                    0
+                ],
+                "formats": [
+                    82,
+                    82
+                ]
+            },
+            {
+                "directory": "25w32a",
+                "min_format": [
+                    83,
+                    0
+                ],
+                "max_format": [
+                    83,
+                    0
+                ],
+                "formats": [
+                    83,
+                    83
+                ]
+            },
+            {
+                "directory": "25w33a",
+                "min_format": [
+                    83,
+                    1
+                ],
+                "max_format": [
+                    83,
+                    1
+                ],
+                "formats": [
+                    83,
+                    83
+                ]
+            },
+            {
+                "directory": "25w34a",
+                "min_format": [
+                    84,
+                    0
+                ],
+                "max_format": [
+                    84,
+                    0
+                ],
+                "formats": [
+                    84,
+                    84
+                ]
+            },
+            {
+                "directory": "25w34b",
+                "min_format": [
+                    84,
+                    0
+                ],
+                "max_format": [
+                    84,
+                    0
+                ],
+                "formats": [
+                    84,
+                    84
+                ]
+            },
+            {
+                "directory": "25w35a",
+                "min_format": [
+                    85,
+                    0
+                ],
+                "max_format": [
+                    85,
+                    0
+                ],
+                "formats": [
+                    85,
+                    85
+                ]
+            },
+            {
+                "directory": "25w36a",
+                "min_format": [
+                    86,
+                    0
+                ],
+                "max_format": [
+                    86,
+                    0
+                ],
+                "formats": [
+                    86,
+                    86
+                ]
+            },
+            {
+                "directory": "25w36b",
+                "min_format": [
+                    86,
+                    0
+                ],
+                "max_format": [
+                    86,
+                    0
+                ],
+                "formats": [
+                    86,
+                    86
+                ]
+            },
+            {
+                "directory": "25w37a",
+                "min_format": [
+                    87,
+                    0
+                ],
+                "max_format": [
+                    87,
+                    0
+                ],
+                "formats": [
+                    87,
+                    87
+                ]
+            },
+            {
+                "directory": "1_21_9-pre1",
+                "min_format": [
+                    87,
+                    1
+                ],
+                "max_format": [
+                    87,
+                    1
+                ],
+                "formats": [
+                    87,
+                    87
+                ]
+            },
+            {
+                "directory": "1_21_9-pre2",
+                "min_format": [
+                    88,
+                    0
+                ],
+                "max_format": [
+                    88,
+                    0
+                ],
+                "formats": [
+                    88,
+                    88
+                ]
+            },
+            {
+                "directory": "1_21_9-pre3",
+                "min_format": [
+                    88,
+                    0
+                ],
+                "max_format": [
+                    88,
+                    0
+                ],
+                "formats": [
+                    88,
+                    88
+                ]
+            },
+            {
+                "directory": "1_21_9-pre4",
+                "min_format": [
+                    88,
+                    0
+                ],
+                "max_format": [
+                    88,
+                    0
+                ],
+                "formats": [
+                    88,
+                    88
+                ]
+            },
+            {
+                "directory": "1_21_9-rc1",
+                "min_format": [
+                    88,
+                    0
+                ],
+                "max_format": [
+                    88,
+                    0
+                ],
+                "formats": [
+                    88,
+                    88
+                ]
+            },
+            {
+                "directory": "1_21_9",
+                "min_format": [
+                    88,
+                    0
+                ],
+                "max_format": [
+                    88,
+                    0
+                ],
+                "formats": [
+                    88,
+                    88
+                ]
+            },
+            {
+                "directory": "1_21_10-rc1",
+                "min_format": [
+                    88,
+                    0
+                ],
+                "max_format": [
+                    88,
+                    0
+                ],
+                "formats": [
+                    88,
+                    88
+                ]
+            },
+            {
+                "directory": "1_21_10",
+                "min_format": [
+                    88,
+                    0
+                ],
+                "max_format": [
+                    88,
+                    0
+                ],
+                "formats": [
+                    88,
+                    88
+                ]
+            },
+            {
+                "directory": "25w41a",
+                "min_format": [
+                    89,
+                    0
+                ],
+                "max_format": [
+                    89,
+                    0
+                ],
+                "formats": [
+                    89,
+                    89
+                ]
+            },
+            {
+                "directory": "25w42a",
+                "min_format": [
+                    90,
+                    0
+                ],
+                "max_format": [
+                    90,
+                    0
+                ],
+                "formats": [
+                    90,
+                    90
+                ]
+            },
+            {
+                "directory": "25w43a",
+                "min_format": [
+                    91,
+                    0
+                ],
+                "max_format": [
+                    91,
+                    0
+                ],
+                "formats": [
+                    91,
+                    91
+                ]
+            },
+            {
+                "directory": "25w44a",
+                "min_format": [
+                    92,
+                    0
+                ],
+                "max_format": [
+                    92,
+                    0
+                ],
+                "formats": [
+                    92,
+                    92
+                ]
+            },
+            {
+                "directory": "25w45a",
+                "min_format": [
+                    93,
+                    0
+                ],
+                "max_format": [
+                    93,
+                    0
+                ],
+                "formats": [
+                    93,
+                    93
+                ]
+            },
+            {
+                "directory": "25w46a",
+                "min_format": [
+                    93,
+                    1
+                ],
+                "max_format": [
+                    93,
+                    1
+                ],
+                "formats": [
+                    93,
+                    93
+                ]
+            },
+            {
+                "directory": "1_21_11-pre1",
+                "min_format": [
+                    94,
+                    0
+                ],
+                "max_format": [
+                    94,
+                    0
+                ],
+                "formats": [
+                    94,
+                    94
+                ]
+            },
+            {
+                "directory": "1_21_11-pre2",
+                "min_format": [
+                    94,
+                    0
+                ],
+                "max_format": [
+                    94,
+                    0
+                ],
+                "formats": [
+                    94,
+                    94
+                ]
+            },
+            {
+                "directory": "1_21_11-pre3",
+                "min_format": [
+                    94,
+                    0
+                ],
+                "max_format": [
+                    94,
+                    0
+                ],
+                "formats": [
+                    94,
+                    94
+                ]
+            },
+            {
+                "directory": "1_21_11-pre4",
+                "min_format": [
+                    94,
+                    1
+                ],
+                "max_format": [
+                    94,
+                    1
+                ],
+                "formats": [
+                    94,
+                    94
+                ]
+            },
+            {
+                "directory": "1_21_11-pre5",
+                "min_format": [
+                    94,
+                    1
+                ],
+                "max_format": [
+                    94,
+                    1
+                ],
+                "formats": [
+                    94,
+                    94
+                ]
+            },
+            {
+                "directory": "1_21_11-rc1",
+                "min_format": [
+                    94,
+                    1
+                ],
+                "max_format": [
+                    94,
+                    1
+                ],
+                "formats": [
+                    94,
+                    94
+                ]
+            },
+            {
+                "directory": "1_21_11-rc2",
+                "min_format": [
+                    94,
+                    1
+                ],
+                "max_format": [
+                    94,
+                    1
+                ],
+                "formats": [
+                    94,
+                    94
+                ]
+            },
+            {
+                "directory": "1_21_11-rc3",
+                "min_format": [
+                    94,
+                    1
+                ],
+                "max_format": [
+                    94,
+                    1
+                ],
+                "formats": [
+                    94,
+                    94
+                ]
+            },
+            {
+                "directory": "1_21_11",
+                "min_format": [
+                    94,
+                    1
+                ],
+                "max_format": [
+                    94,
+                    1
+                ],
+                "formats": [
+                    94,
+                    94
+                ]
+            },
+            {
+                "directory": "26_1-snapshot-1",
+                "min_format": [
+                    95,
+                    0
+                ],
+                "max_format": [
+                    95,
+                    0
+                ],
+                "formats": [
+                    95,
+                    95
+                ]
+            },
+            {
+                "directory": "26_1-snapshot-2",
+                "min_format": [
+                    96,
+                    0
+                ],
+                "max_format": [
+                    96,
+                    0
+                ],
+                "formats": [
+                    96,
+                    96
+                ]
+            },
+            {
+                "directory": "26_1-snapshot-3",
+                "min_format": [
+                    97,
+                    0
+                ],
+                "max_format": [
+                    97,
+                    0
+                ],
+                "formats": [
+                    97,
+                    97
+                ]
+            },
+            {
+                "directory": "26_1-snapshot-4",
+                "min_format": [
+                    97,
+                    1
+                ],
+                "max_format": [
+                    97,
+                    1
+                ],
+                "formats": [
+                    97,
+                    97
+                ]
+            },
+            {
+                "directory": "26_1-snapshot-5",
+                "min_format": [
+                    98,
+                    0
+                ],
+                "max_format": [
+                    98,
+                    0
+                ],
+                "formats": [
+                    98,
+                    98
+                ]
+            },
+            {
+                "directory": "26_1-snapshot-6",
+                "min_format": [
+                    99,
+                    0
+                ],
+                "max_format": [
+                    99,
+                    0
+                ],
+                "formats": [
+                    99,
+                    99
+                ]
+            },
+            {
+                "directory": "26_1-snapshot-7",
+                "min_format": [
+                    99,
+                    1
+                ],
+                "max_format": [
+                    99,
+                    1
+                ],
+                "formats": [
+                    99,
+                    99
+                ]
+            },
+            {
+                "directory": "26_1-snapshot-8",
+                "min_format": [
+                    99,
+                    2
+                ],
+                "max_format": [
+                    99,
+                    2
+                ],
+                "formats": [
+                    99,
+                    99
+                ]
+            },
+            {
+                "directory": "26_1-snapshot-9",
+                "min_format": [
+                    99,
+                    2
+                ],
+                "max_format": [
+                    99,
+                    2
+                ],
+                "formats": [
+                    99,
+                    99
+                ]
+            },
+            {
+                "directory": "26_1-snapshot-10",
+                "min_format": [
+                    99,
+                    3
+                ],
+                "max_format": [
+                    99,
+                    3
+                ],
+                "formats": [
+                    99,
+                    99
+                ]
+            },
+            {
+                "directory": "26_1-snapshot-11",
+                "min_format": [
+                    100,
+                    0
+                ],
+                "max_format": [
+                    100,
+                    0
+                ],
+                "formats": [
+                    100,
+                    100
+                ]
+            },
+            {
+                "directory": "26_1-pre-1",
+                "min_format": [
+                    101,
+                    0
+                ],
+                "max_format": [
+                    101,
+                    0
+                ],
+                "formats": [
+                    101,
+                    101
+                ]
+            },
+            {
+                "directory": "26_1-pre-2",
+                "min_format": [
+                    101,
+                    0
+                ],
+                "max_format": [
+                    101,
+                    0
+                ],
+                "formats": [
+                    101,
+                    101
+                ]
+            },
+            {
+                "directory": "26_1-pre-3",
+                "min_format": [
+                    101,
+                    1
+                ],
+                "max_format": [
+                    101,
+                    1
+                ],
+                "formats": [
+                    101,
+                    101
+                ]
+            },
+            {
+                "directory": "26_1-rc-1",
+                "min_format": [
+                    101,
+                    1
+                ],
+                "max_format": [
+                    101,
+                    1
+                ],
+                "formats": [
+                    101,
+                    101
+                ]
+            },
+            {
+                "directory": "26_1-rc-2",
+                "min_format": [
+                    101,
+                    1
+                ],
+                "max_format": [
+                    101,
+                    1
+                ],
+                "formats": [
+                    101,
+                    101
+                ]
+            },
+            {
+                "directory": "26_1-rc-3",
+                "min_format": [
+                    101,
+                    1
+                ],
+                "max_format": [
+                    101,
+                    1
+                ],
+                "formats": [
+                    101,
+                    101
+                ]
+            },
+            {
+                "directory": "26_1",
+                "min_format": [
+                    101,
+                    1
+                ],
+                "max_format": [
+                    101,
+                    1
+                ],
+                "formats": [
+                    101,
+                    101
+                ]
+            },
+            {
+                "directory": "26_1_1-rc-1",
+                "min_format": [
+                    101,
+                    1
+                ],
+                "max_format": [
+                    101,
+                    1
+                ],
+                "formats": [
+                    101,
+                    101
+                ]
+            },
+            {
+                "directory": "26_1_1",
+                "min_format": [
+                    101,
+                    1
+                ],
+                "max_format": [
+                    101,
+                    1
+                ],
+                "formats": [
+                    101,
+                    101
+                ]
+            },
+            {
+                "directory": "26_1_2-rc-1",
+                "min_format": [
+                    101,
+                    1
+                ],
+                "max_format": [
+                    101,
+                    1
+                ],
+                "formats": [
+                    101,
+                    101
+                ]
+            },
+            {
+                "directory": "26_1_2",
+                "min_format": [
+                    101,
+                    1
+                ],
+                "max_format": [
+                    101,
+                    1
+                ],
+                "formats": [
+                    101,
+                    101
+                ]
+            },
+            {
+                "directory": "26_2-snapshot-1",
+                "min_format": [
+                    101,
+                    2
+                ],
+                "max_format": [
+                    101,
+                    2
+                ],
+                "formats": [
+                    101,
+                    101
+                ]
+            },
+            {
+                "directory": "26_2-snapshot-2",
+                "min_format": [
+                    101,
+                    2
+                ],
+                "max_format": [
+                    101,
+                    2
+                ],
+                "formats": [
+                    101,
+                    101
+                ]
+            },
+            {
+                "directory": "26_2-snapshot-3",
+                "min_format": [
+                    102,
+                    0
+                ],
+                "max_format": [
+                    102,
+                    0
+                ],
+                "formats": [
+                    102,
+                    102
+                ]
+            },
+            {
+                "directory": "26_2-snapshot-4",
+                "min_format": [
+                    103,
+                    0
+                ],
+                "max_format": [
+                    103,
+                    0
+                ],
+                "formats": [
+                    103,
+                    103
+                ]
+            },
+            {
+                "directory": "26_2-snapshot-5",
+                "min_format": [
+                    104,
+                    0
+                ],
+                "max_format": [
+                    104,
+                    0
+                ],
+                "formats": [
+                    104,
+                    104
+                ]
+            },
+            {
+                "directory": "26_2-snapshot-6",
+                "min_format": [
+                    105,
+                    0
+                ],
+                "max_format": [
+                    105,
+                    0
+                ],
+                "formats": [
+                    105,
+                    105
+                ]
+            },
+            {
+                "directory": "26_2-snapshot-7",
+                "min_format": [
+                    105,
+                    1
+                ],
+                "max_format": [
+                    105,
+                    1
+                ],
+                "formats": [
+                    105,
+                    105
+                ]
+            },
+            {
+                "directory": "26_2-snapshot-8",
+                "min_format": [
+                    106,
+                    0
+                ],
+                "max_format": [
+                    106,
+                    0
+                ],
+                "formats": [
+                    106,
+                    106
+                ]
+            },
+            {
+                "directory": "26_2-pre-1",
+                "min_format": [
+                    106,
+                    1
+                ],
+                "max_format": [
+                    106,
+                    1
+                ],
+                "formats": [
+                    106,
+                    106
+                ]
+            },
+            {
+                "directory": "26_2-pre-2",
+                "min_format": [
+                    107,
+                    0
+                ],
+                "max_format": [
+                    107,
+                    0
+                ],
+                "formats": [
+                    107,
+                    107
+                ]
+            },
+            {
+                "directory": "26_2-pre-3",
+                "min_format": [
+                    107,
+                    0
+                ],
+                "max_format": [
+                    107,
+                    0
+                ],
+                "formats": [
+                    107,
+                    107
+                ]
+            },
+            {
+                "directory": "26_2-pre-4",
+                "min_format": [
+                    107,
+                    1
+                ],
+                "max_format": [
+                    107,
+                    1
+                ],
+                "formats": [
+                    107,
+                    107
+                ]
+            },
+            {
+                "directory": "26_2-pre-5",
+                "min_format": [
+                    107,
+                    1
+                ],
+                "max_format": [
+                    107,
+                    1
+                ],
+                "formats": [
+                    107,
+                    107
+                ]
+            },
+            {
+                "directory": "26_2-pre-6",
+                "min_format": [
+                    107,
+                    1
+                ],
+                "max_format": [
+                    107,
+                    1
+                ],
+                "formats": [
+                    107,
+                    107
+                ]
+            },
+            {
+                "directory": "26_2-rc-1",
+                "min_format": [
+                    107,
+                    1
+                ],
+                "max_format": [
+                    107,
+                    1
+                ],
+                "formats": [
+                    107,
+                    107
+                ]
+            },
+            {
+                "directory": "26_2-rc-2",
+                "min_format": [
+                    107,
+                    1
+                ],
+                "max_format": [
+                    107,
+                    1
+                ],
+                "formats": [
+                    107,
+                    107
+                ]
+            },
+            {
+                "directory": "26_2",
+                "min_format": [
+                    107,
+                    1
+                ],
+                "max_format": [
+                    107,
+                    1
+                ],
+                "formats": [
+                    107,
+                    107
+                ]
+            },
+            {
+                "directory": "26_3-snapshot-1",
+                "min_format": [
+                    108,
+                    0
+                ],
+                "max_format": [
+                    108,
+                    0
+                ],
+                "formats": [
+                    108,
+                    108
+                ]
+            },
+            {
+                "directory": "26_3-snapshot-2",
+                "min_format": [
+                    109,
+                    0
+                ],
+                "max_format": [
+                    109,
+                    0
+                ],
+                "formats": [
+                    109,
+                    109
+                ]
+            },
+            {
+                "directory": "26_3-snapshot-3",
+                "min_format": [
+                    110,
+                    0
+                ],
+                "max_format": [
+                    110,
+                    0
+                ],
+                "formats": [
+                    110,
+                    110
+                ]
+            },
+            {
+                "directory": "26_3-snapshot-4",
+                "min_format": [
+                    111,
+                    0
+                ],
+                "max_format": [
+                    111,
+                    0
+                ],
+                "formats": [
+                    111,
+                    111
+                ]
+            },
+            {
+                "directory": "26_3-snapshot-5",
+                "min_format": [
+                    112,
+                    0
+                ],
+                "max_format": [
+                    112,
+                    0
+                ],
+                "formats": [
+                    112,
+                    112
+                ]
+            }
+        ]
+    }
+}

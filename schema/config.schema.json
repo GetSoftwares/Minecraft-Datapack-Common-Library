@@ -1,0 +1,36 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "object",
+    "properties": {
+        "rebuild_cache": {
+            "type": "boolean",
+            "default": false,
+            "description": "强制重建先前已构建好的配置和信息文件。"
+        },
+        "version_info_path": {
+            "type": "string",
+            "default": "build/version_info.json",
+            "description": "指定版本信息的位置。这会影响加载和构建。"
+        },
+        "spyglassmc_root": {
+            "type": "string",
+            "default": "",
+            "description": "指定 SpyglassMC 的位置。用于替代 MINECRAFT_SPYGLASSMC_ROOT 环境变量。\n该位置包含了 Minecraft 各版本的注册表、数据包和版本列表。\n如果未设置或为空字符串，则设置为 MINECRAFT_SPYGLASSMC_ROOT 环境变量的值。"
+        },
+        "pack_root": {
+            "type": "string",
+            "default": "",
+            "description": "指定数据包通用库的位置。用于替代 MINECRAFT_PACK_ROOT 环境变量。\n如果未设置或为空字符串，则设置为 MINECRAFT_PACK_ROOT 环境变量的值。"
+        },
+        "output_dir": {
+            "type": "string",
+            "default": "output",
+            "description": "指定通用库构建的输出目录。默认为 output。"
+        },
+        "pack_icon": {
+            "type": "string",
+            "default": "",
+            "description": "指定数据包通用库的图标。可以为空。当前未使用。"
+        }
+    }
+}

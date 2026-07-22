@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "description": "教程：全维度建筑生存",
+        "min_format": 15,
+        "max_format": 999,
+        "pack_format": 15,
+        "supported_formats": [15, 999]
+    }
+}

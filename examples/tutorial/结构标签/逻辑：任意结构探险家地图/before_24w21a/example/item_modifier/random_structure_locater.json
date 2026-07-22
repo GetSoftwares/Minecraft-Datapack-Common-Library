@@ -1,0 +1,5 @@
+{
+  "function": "exploration_map",
+  "destination": "common:vanilla_all_structures",
+  "infiniburn": "#common:vanilla_all_blocks"
+}

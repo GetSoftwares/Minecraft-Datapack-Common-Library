@@ -1,0 +1,11 @@
+# 文件夹
+cache
+config
+logs
+temp
+pack_build
+
+# 文件
+startidle.cmd
+*.log
+*.code-workspace

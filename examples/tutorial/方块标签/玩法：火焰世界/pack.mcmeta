@@ -1,0 +1,79 @@
+{
+    "pack": {
+        "description": "教程包：火焰世界",
+        "min_format": 15,
+        "max_format": 999,
+        "pack_format": 81,
+        "supported_formats": [15, 999]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "dimension_type_upper_23w18a",
+                "min_format": 15,
+                "max_format": 999,
+                "formats": [15, 999]
+            },
+            {
+                "directory": "dimension_type_upper_25w15a",
+                "min_format": 72,
+                "max_format": 999,
+                "formats": [72, 999]
+            },
+            {
+                "directory": "dimension_type_upper_25w42a",
+                "min_format": 90,
+                "max_format": 999,
+                "formats": [90, 999]
+            },
+            {
+                "directory": "dimension_type_upper_25w44a",
+                "min_format": 92,
+                "max_format": 999,
+                "formats": [92, 999]
+            },
+            {
+                "directory": "dimension_type_upper_25w45a",
+                "min_format": 93,
+                "max_format": 999,
+                "formats": [93, 999]
+            },
+            {
+                "directory": "dimension_type_upper_26_1-snapshot-1",
+                "min_format": 95,
+                "max_format": 999,
+                "formats": [95, 999]
+            },
+            {
+                "directory": "dimension_type_upper_26_1-snapshot-3",
+                "min_format": 97,
+                "max_format": 999,
+                "formats": [97, 999]
+            },
+            {
+                "directory": "dimension_type_upper_26_1-snapshot-5",
+                "min_format": 98,
+                "max_format": 999,
+                "formats": [98, 999]
+            },
+            {
+                "directory": "dimension_type_upper_26_1-snapshot-6",
+                "min_format": 99,
+                "max_format": 999,
+                "formats": [99, 999]
+            },
+            {
+                "directory": "dimension_type_upper_26_3-snapshot-3",
+                "min_format": 110,
+                "max_format": 999,
+                "formats": [110, 999]
+            },
+            {
+                "directory": "dimension_type_upper_26_3-snapshot-4",
+                "min_format": 111,
+                "max_format": 999,
+                "formats": [111, 999]
+            }
+        ]
+    }
+}

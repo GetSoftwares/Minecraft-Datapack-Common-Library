@@ -1,0 +1,33 @@
+{
+    "values": [
+        "minecraft:shipwreck",
+        "minecraft:shipwreck_beached",
+        "minecraft:jungle_pyramid",
+        "minecraft:village_desert",
+        "minecraft:village_plains",
+        "minecraft:village_savanna",
+        "minecraft:village_snowy",
+        "minecraft:village_taiga",
+        "minecraft:ruined_portal",
+        "minecraft:ruined_portal_desert",
+        "minecraft:ruined_portal_jungle",
+        "minecraft:ruined_portal_mountain",
+        "minecraft:ruined_portal_ocean",
+        "minecraft:ruined_portal_swamp",
+        "minecraft:mineshaft",
+        "minecraft:mineshaft_mesa",
+        "minecraft:trail_ruins",
+        "minecraft:ocean_ruin_cold",
+        "minecraft:ocean_ruin_warm",
+        "minecraft:monument",
+        "minecraft:mansion",
+        "minecraft:pillager_outpost",
+        "minecraft:buried_treasure",
+        "minecraft:desert_pyramid",
+        "minecraft:trial_chambers",
+        "minecraft:igloo",
+        "minecraft:stronghold",
+        "minecraft:ancient_city",
+        "minecraft:swamp_hut"
+    ]
+}

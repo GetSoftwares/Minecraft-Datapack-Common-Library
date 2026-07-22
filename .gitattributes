@@ -1,0 +1,6 @@
+output/ export-ignore
+*.zip binary
+*.png binary
+*.mcfunction text eol=lf
+pack.mcmeta text eol=lf
+* text=auto eol=lf
